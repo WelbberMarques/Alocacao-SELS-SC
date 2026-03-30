@@ -1,0 +1,22 @@
+LICENCA PROPRIETARIA - TODOS OS DIREITOS RESERVADOS
+=====================================================
+
+Copyright (c) 2026 Welbber Marques - SELS-SC
+Todos os direitos reservados.
+
+Este software e seu codigo-fonte sao propriedade exclusiva de
+Welbber Marques (SELS-SC) e sao protegidos pelas leis de direitos
+autorais do Brasil (Lei 9.610/98) e tratados internacionais.
+
+E EXPRESSAMENTE PROIBIDO:
+- Copiar, reproduzir ou distribuir este software no todo ou em parte
+- Modificar, adaptar ou criar obras derivadas
+- Fazer engenharia reversa, descompilar ou desmontar
+- Usar o codigo para fins comerciais sem autorizacao expressa
+- Remover ou alterar avisos de direitos autorais
+
+O uso nao autorizado deste software constitui violacao de direitos
+autorais e pode resultar em acoes civeis e criminais.
+
+Para licenciamento comercial ou autorizacao de uso, entre em contato:
+Welbber Marques - SELS-SC
