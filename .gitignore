@@ -1,0 +1,31 @@
+# Dados de runtime — nunca versionar
+usuarios.json
+sessoes.json
+tentativas_login.json
+historico.json
+dispositivos_aprovados.json
+configuracoes.json
+preferencias_*.json
+
+# Variaveis de ambiente
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.eggs/
+pip-log.txt
+
+# Build / dist
+build/
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
